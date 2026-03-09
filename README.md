@@ -6,6 +6,10 @@
 
 The site tagline: *"When Banking meets Minimalist"*
 
+## 🚀 Live Demo
+
+Check out the live application: [https://minbank.netlify.app/](https://minbank.netlify.app/)
+
 ## Features
 
 - **Modal Window**: Open account functionality with modal popup
